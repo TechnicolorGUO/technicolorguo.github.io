@@ -1,27 +1,67 @@
 [
   {
-    "title": "Best Duo Award — Cookie & Lucas Play Session",
-    "org": "Living Room Championship",
-    "date": "Dec 2024",
+    "title": "PolyU Dean's Honours List (2022/23)",
+    "date": "2023",
+    "org": "The Hong Kong Polytechnic University",
+    "kind": "honor"
+  },
+  {
+    "title": "PolyU Dean's Honours List (2023/24)",
+    "date": "2024",
+    "org": "The Hong Kong Polytechnic University",
+    "kind": "honor"
+  },
+  {
+    "title": "Dr Winnie S M Tang–PolyU Student Innovation & Entrepreneurship Scholarship",
+    "date": "2024",
+    "org": "The Hong Kong Polytechnic University",
+    "kind": "scholarship"
+  },
+  {
+    "title": "PolyU Undergraduate Research and Innovation Scheme Progress Scholarship",
+    "date": "2024",
+    "org": "The Hong Kong Polytechnic University",
+    "kind": "scholarship"
+  },
+  {
+    "title": "Merit Prize, 10th Hong Kong University Student Innovation and Entrepreneurship Competition",
+    "date": "2024",
     "kind": "competition"
   },
   {
-    "title": "1st Place in Neighborhood Paw Shake Contest",
-    "org": "Dog Park Community",
-    "date": "Apr 2024",
-    "kind": "hackathon"
+    "title": "HKSAR Government Scholarship Fund: Reaching Out Award",
+    "date": "2024",
+    "org": "HKSAR Government",
+    "kind": "scholarship"
   },
   {
-    "title": "Fluffy Companion Fellowship",
-    "org": "National Treat Foundation",
-    "date": "Sep 2023",
-    "kind": "scholarship",
-    "link": "#"
-  },
-  {
-    "title": "Top Cuddler (top 5% of graduating class)",
-    "org": "Home Sweet Home Academy",
-    "date": "May 2022",
+    "title": "PolyU Dean's Honours List (2024/25)",
+    "date": "2025",
+    "org": "The Hong Kong Polytechnic University",
     "kind": "honor"
+  },
+  {
+    "title": "SINOPEC \"Cleaner Energy Better Life\" Scholarship",
+    "date": "2025",
+    "org": "SINOPEC",
+    "kind": "scholarship"
+  },
+  {
+    "title": "PolyU Undergraduate Research and Innovation Scheme Completion Scholarship",
+    "date": "2025",
+    "org": "The Hong Kong Polytechnic University",
+    "kind": "scholarship"
+  },
+  {
+    "title": "National Second Prize, 19th \"Challenge Cup\" National Competition",
+    "date": "2025",
+    "org": "Challenge Cup",
+    "kind": "competition"
+  },
+  {
+    "title": "The Hong Kong Polytechnic University Scholarship 2025/26",
+    "date": "2025",
+    "org": "The Hong Kong Polytechnic University",
+    "kind": "scholarship"
   }
 ]

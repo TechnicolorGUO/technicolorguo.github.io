@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__termhub__parse_pdf",
+      "mcp__termhub__get_site_status",
+      "mcp__termhub__get_schema",
+      "mcp__termhub__reset_content",
+      "mcp__termhub__generate_from_resume",
+      "mcp__termhub__update_site_config",
+      "mcp__termhub__add_education",
+      "mcp__termhub__manage_assets",
+      "mcp__termhub__add_publication",
+      "mcp__termhub__add_experience",
+      "mcp__termhub__add_award",
+      "mcp__termhub__add_talk",
+      "mcp__termhub__write_markdown_content",
+      "mcp__termhub__write_json_content",
+      "mcp__termhub__add_news",
+      "mcp__termhub__add_project",
+      "Bash(grep -r @content /e/gaaa/TermHub/vite.config.*)",
+      "Bash(npx vite:*)",
+      "Bash(node -e \":*)",
+      "mcp__termhub__read_content",
+      "WebFetch(domain:arxiv.org)",
+      "WebSearch",
+      "Bash(xargs grep:*)",
+      "Bash(npm run:*)",
+      "Bash(gh api:*)"
+    ]
+  }
+}

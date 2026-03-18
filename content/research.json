@@ -1,18 +1,20 @@
 {
   "currentResearch": [
     {
-      "lab": "The Cozy Corner",
-      "emoji": "🛋️",
-      "advisor": "Dr. Warm Lap",
-      "focus": "warmth-seeking behavior and human-proximity optimization",
-      "link": "#"
+      "lab": "PolyU NLP Group",
+      "emoji": "🗣️",
+      "advisor": "Dr. Jian Wang",
+      "focus": "NLP research, automatic survey generation evaluation, LLM-based benchmarks",
+      "link": "https://polyunlp.github.io/home",
+      "institution": "The Hong Kong Polytechnic University"
     },
     {
-      "lab": "Lucas & Cookie Play Lab",
-      "emoji": "🐱",
-      "advisor": "Prof. Lucas",
-      "focus": "cross-species play dynamics and cooperative napping",
-      "link": "#"
+      "lab": "Internet and Mobile Computing Laboratory (IMCL)",
+      "emoji": "🔬",
+      "advisor": "Dr. Zhiyuan Wen",
+      "focus": "Automatic survey generation evaluation, LLM-based benchmarks",
+      "link": "",
+      "institution": "The Hong Kong Polytechnic University"
     }
   ]
 }

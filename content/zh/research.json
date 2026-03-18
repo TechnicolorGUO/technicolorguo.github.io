@@ -1,18 +1,20 @@
 {
   "currentResearch": [
     {
-      "lab": "温暖角落",
-      "emoji": "🛋️",
-      "advisor": "暖膝盖博士",
-      "focus": "取暖行为和人类距离最小化优化",
-      "link": "#"
+      "lab": "理大NLP研究组",
+      "emoji": "🗣️",
+      "advisor": "Dr. Jian Wang",
+      "focus": "自然语言处理研究、自动综述生成评估、基于LLM的基准测试",
+      "link": "https://polyunlp.github.io/home",
+      "institution": "香港理工大学"
     },
     {
-      "lab": "Lucas & Cookie 玩耍实验室",
-      "emoji": "🐱",
-      "advisor": "Lucas 教授",
-      "focus": "跨物种玩耍动力学和协作午睡",
-      "link": "#"
+      "lab": "互联网与移动计算实验室 (IMCL)",
+      "emoji": "🔬",
+      "advisor": "Dr. Zhiyuan Wen",
+      "focus": "自动综述生成评估、基于LLM的基准测试",
+      "link": "",
+      "institution": "香港理工大学"
     }
   ]
 }

@@ -1,27 +1,67 @@
 [
   {
-    "title": "最佳搭档奖 — Cookie & Lucas 玩耍大赛",
-    "org": "客厅锦标赛",
-    "date": "Dec 2024",
+    "title": "理大院长嘉许名单 (2022/23)",
+    "date": "2023",
+    "org": "香港理工大学",
+    "kind": "honor"
+  },
+  {
+    "title": "理大院长嘉许名单 (2023/24)",
+    "date": "2024",
+    "org": "香港理工大学",
+    "kind": "honor"
+  },
+  {
+    "title": "邓永铿博士–理大学生创新创业奖学金",
+    "date": "2024",
+    "org": "香港理工大学",
+    "kind": "scholarship"
+  },
+  {
+    "title": "理大本科生研究与创新计划进展奖学金",
+    "date": "2024",
+    "org": "香港理工大学",
+    "kind": "scholarship"
+  },
+  {
+    "title": "第10届香港大学生创新创业大赛 优异奖",
+    "date": "2024",
     "kind": "competition"
   },
   {
-    "title": "邻里握手大赛冠军",
-    "org": "狗公园社区",
-    "date": "Apr 2024",
-    "kind": "hackathon"
+    "title": "香港特区政府奖学基金：外展体验奖",
+    "date": "2024",
+    "org": "香港特区政府",
+    "kind": "scholarship"
   },
   {
-    "title": "毛茸茸伙伴奖学金",
-    "org": "国家零食基金会",
-    "date": "Sep 2023",
-    "kind": "scholarship",
-    "link": "#"
-  },
-  {
-    "title": "最佳撒娇奖（毕业班前 5%）",
-    "org": "温馨小窝学院",
-    "date": "May 2022",
+    "title": "理大院长嘉许名单 (2024/25)",
+    "date": "2025",
+    "org": "香港理工大学",
     "kind": "honor"
+  },
+  {
+    "title": "中国石化\"洁净能源 美好生活\"奖学金",
+    "date": "2025",
+    "org": "中国石化",
+    "kind": "scholarship"
+  },
+  {
+    "title": "理大本科生研究与创新计划结业奖学金",
+    "date": "2025",
+    "org": "香港理工大学",
+    "kind": "scholarship"
+  },
+  {
+    "title": "第19届\"挑战杯\"全国竞赛 全国二等奖",
+    "date": "2025",
+    "org": "挑战杯",
+    "kind": "competition"
+  },
+  {
+    "title": "香港理工大学奖学金 2025/26",
+    "date": "2025",
+    "org": "香港理工大学",
+    "kind": "scholarship"
   }
 ]

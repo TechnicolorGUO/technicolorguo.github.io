@@ -1,41 +1,40 @@
 [
   {
-    "type": "publication",
-    "badge": "论文发表",
-    "icon": "FaFileAlt",
-    "iconColor": "blue.400",
-    "title": "撒娇优化论文被 CozyCon 2025 录用",
-    "description": "Cookie 的论文《取暖型博美的最优膝盖占领位置》已被 CozyCon 2025 录用。",
-    "date": "Dec 2025",
-    "sortDate": "2025-12-01",
-    "links": [
-      { "text": "论文", "url": "#", "icon": "FaFilePdf" }
-    ]
-  },
-  {
     "type": "talk",
     "badge": "受邀报告",
     "icon": "FaMicrophone",
     "iconColor": "purple.400",
-    "title": "在国际跨物种玩耍研讨会上受邀演讲",
-    "description": "报告了博美与布偶猫之间的合作玩耍动力学研究成果，以与弟弟 Lucas 的案例为主。",
-    "date": "Mar 2025",
-    "sortDate": "2025-03-10",
-    "links": [
-      { "text": "幻灯片", "url": "#", "icon": "FaDesktop" }
-    ]
+    "title": "受邀在LLMs教育研讨会上做报告",
+    "description": "受邀在第24届LLMs for Next-generation Education国际研讨会上做研究分享报告。",
+    "date": "2025年11月",
+    "sortDate": "2025-11-01",
+    "links": []
   },
   {
-    "type": "release",
-    "badge": "发布",
-    "icon": "FaRocket",
-    "iconColor": "green.400",
-    "title": "PawShake.js v1.0 发布",
-    "description": "发布了 PawShake.js，一个通过握手协议建模零食获取策略的开源库。",
-    "date": "Jul 2024",
-    "sortDate": "2024-07-01",
+    "type": "award",
+    "badge": "获奖",
+    "icon": "FaTrophy",
+    "iconColor": "yellow.400",
+    "title": "挑战杯全国二等奖",
+    "description": "在第19届\"挑战杯\"全国竞赛中获得全国二等奖。",
+    "date": "2025",
+    "sortDate": "2025-01-01",
+    "links": []
+  },
+  {
+    "type": "publication",
+    "badge": "论文发表",
+    "icon": "FaFileAlt",
+    "iconColor": "blue.400",
+    "title": "SGSimEval 在 ADMA 2025 发表",
+    "description": "第一作者论文SGSimEval在ADMA 2025发表，并在日本京都进行口头报告。",
+    "date": "2025年10月",
+    "sortDate": "2025-10-01",
     "links": [
-      { "text": "GitHub", "url": "#", "icon": "FaGithub" }
+      {
+        "text": "论文",
+        "url": "https://doi.org/10.1007/978-981-95-3456-2_27"
+      }
     ]
   }
 ]
