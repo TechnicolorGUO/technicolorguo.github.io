@@ -128,25 +128,7 @@ const Navbar: React.FC = () => {
               />
             </ChakraLink>
           ))}
-          {/* Language switcher */}
-          <Button
-            size="xs"
-            variant="ghost"
-            color="var(--text-color)"
-            fontWeight="medium"
-            fontSize="xs"
-            px={2}
-            minW="auto"
-            onClick={toggleLanguage}
-            aria-label={t('aria.toggleLanguage')}
-            _hover={{
-              bg: 'var(--hover-color)',
-              transform: 'translateY(-2px)'
-            }}
-            transition="all 0.2s"
-          >
-            {i18n.language === 'zh' ? 'EN' : '中'}
-          </Button>
+          {/* Language switcher — disabled for now */}
           <IconButton
             aria-label={t('aria.toggleColorMode')}
             icon={colorMode === 'dark' ? <SunIcon /> : <MoonIcon />}
@@ -205,15 +187,6 @@ const Navbar: React.FC = () => {
               <Divider borderColor="var(--border-color)" my={2} />
 
               <HStack spacing={2}>
-                <Button
-                  size="sm"
-                  variant="outline"
-                  color="var(--text-color)"
-                  onClick={toggleLanguage}
-                  flex={1}
-                >
-                  {i18n.language === 'zh' ? 'English' : '中文'}
-                </Button>
                 <IconButton
                   aria-label={t('aria.toggleColorMode')}
                   icon={colorMode === 'dark' ? <SunIcon /> : <MoonIcon />}
