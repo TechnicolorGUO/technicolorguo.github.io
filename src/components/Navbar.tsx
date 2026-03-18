@@ -1,7 +1,7 @@
 import {
   Box, Flex, IconButton, useColorMode, HStack, Link as ChakraLink, Image,
   useDisclosure, Drawer, DrawerOverlay, DrawerContent, DrawerHeader, DrawerBody,
-  VStack, Divider, Button
+  VStack, Divider
 } from '@chakra-ui/react'
 import { MoonIcon, SunIcon, HamburgerIcon, CloseIcon } from '@chakra-ui/icons'
 import { Link, useLocation } from 'react-router-dom'
@@ -15,10 +15,6 @@ const Navbar: React.FC = () => {
   const location = useLocation()
   const { isOpen, onOpen, onClose } = useDisclosure()
   const { t, i18n } = useTranslation()
-
-  const toggleLanguage = () => {
-    i18n.changeLanguage(i18n.language === 'zh' ? 'en' : 'zh')
-  }
 
   const socialLinks = [
     { icon: FaEnvelope, href: `mailto:${siteOwner.contact.email}`, label: 'Email' },
