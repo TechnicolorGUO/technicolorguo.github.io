@@ -1,5 +1,16 @@
 [
   {
+    "type": "award",
+    "badge": "Fellowship",
+    "icon": "FaTrophy",
+    "iconColor": "yellow.500",
+    "title": "Awarded Hong Kong PhD Fellowship Scheme (HKPFS)",
+    "description": "Awarded the prestigious Hong Kong PhD Fellowship Scheme by the Research Grants Council, commencing PhD study in 2026.",
+    "date": "2026",
+    "sortDate": "2026-01-01",
+    "links": []
+  },
+  {
     "type": "talk",
     "badge": "Talk",
     "icon": "FaMicrophone",

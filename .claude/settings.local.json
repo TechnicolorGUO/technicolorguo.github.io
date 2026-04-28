@@ -25,7 +25,10 @@
       "WebSearch",
       "Bash(xargs grep:*)",
       "Bash(npm run:*)",
-      "Bash(gh api:*)"
+      "Bash(gh api:*)",
+      "Bash(git push:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   }
 }

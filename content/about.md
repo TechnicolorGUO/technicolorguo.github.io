@@ -1,5 +1,5 @@
 ---
-journey: I'm a final-year undergraduate at The Hong Kong Polytechnic University, majoring in AI and Information Engineering with a GPA of 4.00/4.30. I will be joining PolyU COMP as a PhD candidate in 2026 under the supervision of Prof. Wenjie Maggie Li. My research focuses on Large Language Models, multi-agent systems, and NLP. I've published at ADMA 2025 as first author and contributed to multiple research projects on survey generation and fake news detection.
+journey: I'm a final-year undergraduate at The Hong Kong Polytechnic University, majoring in AI and Information Engineering with a GPA of 4.00/4.30. I will be joining PolyU COMP as a PhD candidate in 2026 under the supervision of Prof. Wenjie Maggie Li, supported by the Hong Kong PhD Fellowship Scheme (HKPFS). My research focuses on Large Language Models, multi-agent systems, and NLP. I've published at ADMA 2025 as first author and contributed to multiple research projects on survey generation and fake news detection.
 journeyPhases:
   - period: 2022 - Present
     title: Undergraduate Researcher
@@ -19,11 +19,12 @@ journeyPhases:
   - period: 2026 -
     title: Incoming PhD Candidate
     org: PolyU COMP
-    description: Joining the Department of Computing at PolyU as a PhD candidate under the supervision of Prof. Wenjie Maggie Li.
+    description: Joining the Department of Computing at PolyU as a PhD candidate under the supervision of Prof. Wenjie Maggie Li, supported by the Hong Kong PhD Fellowship Scheme (HKPFS).
     tags:
       - PhD
       - NLP
       - LLM
+      - HKPFS
 version:
   current: "3.0"
   history:
@@ -43,9 +44,9 @@ version:
       features:
         - Multiple publications
         - PolyU NLP Group research
-        - Incoming PhD at PolyU COMP
+        - Incoming PhD at PolyU COMP (HKPFS)
 ---
 
 I'm Gordon, a final-year undergraduate researcher passionate about pushing the boundaries of what Large Language Models can do. My work spans automatic survey generation, fake news detection, and building AI agents with world model-based planning.
 
-I will be joining PolyU COMP as a PhD candidate in 2026 under the supervision of Prof. Wenjie Maggie Li. When I'm not doing research, you'll find me leading teams in hackathons and competitions, or building web applications.
+I will be joining PolyU COMP as a PhD candidate in 2026 under the supervision of Prof. Wenjie Maggie Li, supported by the Hong Kong PhD Fellowship Scheme (HKPFS). When I'm not doing research, you'll find me leading teams in hackathons and competitions, or building web applications.

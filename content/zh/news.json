@@ -1,5 +1,16 @@
 [
   {
+    "type": "award",
+    "badge": "Fellowship",
+    "icon": "FaTrophy",
+    "iconColor": "yellow.500",
+    "title": "荣获香港博士研究生奖学金计划 (HKPFS)",
+    "description": "荣获香港研究资助局颁发的香港博士研究生奖学金计划，将于2026年开始博士研究。",
+    "date": "2026",
+    "sortDate": "2026-01-01",
+    "links": []
+  },
+  {
     "type": "talk",
     "badge": "受邀报告",
     "icon": "FaMicrophone",
