@@ -2,11 +2,13 @@
   "title": "你好，我是 Gordon",
   "terminal": {
     "rotatingSubtitles": [
-      "探索大语言模型研究",
-      "构建AI系统",
-      "编写代码",
-      "攻克NLP难题",
-      "分享知识"
+      "explore LLM research",
+      "build AI systems",
+      "write some code",
+      "tackle NLP challenges",
+      "share knowledge",
+      "play Hearthstone",
+      "enjoy CS (the game and the degree)"
     ],
     "username": "gordon",
     "skills": [
